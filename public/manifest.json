@@ -1,7 +1,7 @@
 {
   "name": "PWA Boilerplate",
   "short_name": "PWA Boilerplate",
-  "starturl": "/?home=true",
+  "start_url": "/?home=true",
   "icons": [
     {
       "src": "icons/manifest-icon-192.png",
