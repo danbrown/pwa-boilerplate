@@ -25,11 +25,9 @@ npx serve build
 Replace the `./public/logo.png` and `./public/favicon.png` files.
 Then delete `./public/icons` folder.
 
-Run
+Run to generate new assets.
+`manifest.json` file is already configured to use this icons.
 
 ```sh
 npx pwa-asset-generator ./public/logo.png ./public/icons
 ```
-
-To generate new assets.
-`manifest.json` file is already configured to use this icons.
